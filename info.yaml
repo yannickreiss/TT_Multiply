@@ -30,7 +30,7 @@ documentation:
     - msb 1
     - lsb 2
     - msb 2
-    - reset
+    - reset             # not yet implemented: already using only defined states
     - none
     - none
     - none
