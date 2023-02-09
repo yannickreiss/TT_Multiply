@@ -1,7 +1,7 @@
 --- 
 # TinyTapeout project information
 project:
-  wokwi_id:    356112675035990017        # If using wokwi, set this to your project's ID
+  wokwi_id:    356174043573017601        # If using wokwi, set this to your project's ID
 #  source_files:        # If using an HDL, set wokwi_id as 0 and uncomment and list your source files here. Source files must be in ./src
 #    - counter.v
 #    - decoder.v
@@ -30,7 +30,7 @@ documentation:
     - msb 1
     - lsb 2
     - msb 2
-    - reset             # not yet implemented: already using only defined states
+    - none
     - none
     - none
     - none
